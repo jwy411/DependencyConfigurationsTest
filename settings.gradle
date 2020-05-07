@@ -1,0 +1,6 @@
+rootProject.name = 'DependencyConfigurationsTest'
+include 'LibraryA'
+include 'LibraryB'
+include 'LibraryC'
+include 'LibraryD'
+
