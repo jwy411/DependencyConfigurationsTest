@@ -1,5 +1,5 @@
 public class ClassC {
 	public String tellMeJoke() {
-		return "You are funny :C";
+		return "You are funny :CC";
 	}
 }

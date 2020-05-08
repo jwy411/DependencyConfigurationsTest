@@ -3,4 +3,5 @@ include 'LibraryA'
 include 'LibraryB'
 include 'LibraryC'
 include 'LibraryD'
+include 'LibraryE'
 
